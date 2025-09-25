@@ -1,0 +1,1 @@
+# Pinecone_embed_all-MiniLM-L6-v2-sentence-transformer-model
