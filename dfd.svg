@@ -259,6 +259,6 @@
   
   <!-- Footer -->
   <text x="600" y="750" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">
-    GitHub:     Pinecone_embed_all-MiniLM-L6-v2-sentence-transformer-model| Created with Python, SentenceTransformers, and Pinecone Vector Database
+    GitHub: Pinecone PDF Search | Created with Python, SentenceTransformers, and Pinecone Vector Database
   </text>
 </svg>
