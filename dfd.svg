@@ -4,7 +4,7 @@
   
   <!-- Title -->
   <text x="600" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">
-    Pinecone PDF Search Demo - Data Flow Diagram &amp; System Architecture
+    Pinecone PDF Search - Data Flow Diagram &amp; System Architecture
   </text>
   
   <!-- Technology Stack Header -->
@@ -259,6 +259,6 @@
   
   <!-- Footer -->
   <text x="600" y="750" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">
-    GitHub: Pinecone PDF Search Demo | Created with Python, SentenceTransformers, and Pinecone Vector Database
+    GitHub:     Pinecone_embed_all-MiniLM-L6-v2-sentence-transformer-model| Created with Python, SentenceTransformers, and Pinecone Vector Database
   </text>
 </svg>
